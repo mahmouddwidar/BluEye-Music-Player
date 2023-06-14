@@ -4,7 +4,7 @@
 
 **BluEye Player is a Python-based music player** built using the Tkinter GUI library and the pygame library for audio playback. It provides a user-friendly interface to play, pause, resume, and stop songs, control the volume, and manage playlists.
 
-<img src="https://i.imgur.com/NkjrGUb.png" hspace="0px" vspace="160px">
+<img src="https://i.imgur.com/EmqPp5R.png" hspace="0px" vspace="160px">
 
 ## Table of Contents
 
