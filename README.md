@@ -54,7 +54,7 @@ BluEye Player relies on the following dependencies:
 
 To install the required dependencies, you can use the `requirements.txt` file included in the repository. Run the following command:
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 
 Make sure to have a compatible version of Python installed on your system before installing the dependencies.
