@@ -62,7 +62,6 @@ Make sure to have a compatible version of Python installed on your system before
 ## Credits
 
 - BluEye Player was coded and designed by Mahmoud Dwidar.
-- GitHub: [github.com/mahmouddwidar](https://github.com/mahmouddwidar)
 
 
 Note: Please make sure to update the file paths and dependencies according to your environment and requirements.
