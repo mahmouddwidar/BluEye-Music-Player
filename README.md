@@ -67,3 +67,7 @@ Make sure to have a compatible version of Python installed on your system before
 Note: Please make sure to update the file paths and dependencies according to your environment and requirements.
 
 Enjoy using BluEye Player for playing your favorite music tracks!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
